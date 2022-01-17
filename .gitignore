@@ -1,0 +1,8 @@
+__pycache__
+.env
+.env-brownie-fund-me
+.history
+.hypothesis/
+build/
+reports/
+.commands.md
